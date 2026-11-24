@@ -20,4 +20,4 @@ Python (pandas, NumPy) · SQL · R · APIs REST · ETL · Streamlit · Excel · 
 
 ### Contato
 
-matheus.dadosrj@gmail.com
+matheus.dadosrj@gmail.com · [LinkedIn](https://www.linkedin.com/in/matheus-ramos-dados/)
